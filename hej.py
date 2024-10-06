@@ -1,7 +1,4 @@
-{
-
 print("Hej")
-print("Hej Verden")
-print("Hej Univers")
-print("Hej Multivers")
-}
+print("Hej, Verden")
+print("Hej, Univers")
+print("Hej, Multivers")
